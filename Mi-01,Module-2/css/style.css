@@ -1,0 +1,25 @@
+.blog{
+    background-color: lightblue;
+}
+h1{
+    text-decoration: underline;
+}
+
+#two{
+    background-color: yellow;
+    /* display: none; */
+    visibility: hidden;
+}
+#minima{
+    color: red;
+    border: 2px solid black;
+    margin: 50px;
+    padding: 50px;
+    width: 50px;
+    height: 100px;
+    display: block;
+
+}
+li{
+    display: inline;
+}
